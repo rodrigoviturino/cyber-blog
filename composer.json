@@ -1,0 +1,15 @@
+{
+    "name": "viturino/cyberblog",
+    "description": "Projeto blog para aprendizado do mvc no php",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/",
+            "files" : [
+                "app/config/config.php"
+            ]
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
