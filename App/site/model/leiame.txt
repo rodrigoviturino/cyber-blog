@@ -1,0 +1,2 @@
+Comunicação com a base de dados que será o Mysql.
+Pasta que vai ter uma regra de negocio voltada para dados.

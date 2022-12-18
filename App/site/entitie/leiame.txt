@@ -1,0 +1,1 @@
+Pasta que vai lidar com validação de dados ex: Validar email,cpf e tals.

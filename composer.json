@@ -1,15 +1,21 @@
 {
     "name": "viturino/cyberblog",
     "description": "Projeto blog para aprendizado do mvc no php",
-    "autoload": {
-        "psr-4": {
-            "app\\" : "app/",
-            "files" : [
-                "app/config/config.php"
-            ]
+    "authors": [
+        {
+            "name": "Rodrigo",
+            "email": "viturino_souza@outlook.com"
         }
-    },
+    ],
     "require": {
         "twig/twig": "^3.4"
+    },
+    "autoload": {
+        "psr-4":{
+            "App\\" : "App/"
+        },
+        "files": [
+            "App/config/config.php"
+        ]
     }
 }
