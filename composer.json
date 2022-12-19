@@ -15,7 +15,8 @@
             "App\\" : "App/"
         },
         "files": [
-            "App/config/config.php"
+            "App/Config/config.php",
+            "App/Function/function.php"
         ]
     }
 }

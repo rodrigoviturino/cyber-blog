@@ -1,5 +1,7 @@
 /vendor
 composer.lock
+app/config/env/*
 
-/App/config/env/prod.php
+
+!app/config/env/local.php
 
