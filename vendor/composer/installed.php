@@ -3,7 +3,7 @@
         'name' => 'viturino/cyberblog',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '16b4dff0188ae84a152e1fdb7cb3df5e773ab3b7',
+        'reference' => '5f5da50ad67bcc720116d369d1008533d5999ffa',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'viturino/cyberblog' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '16b4dff0188ae84a152e1fdb7cb3df5e773ab3b7',
+            'reference' => '5f5da50ad67bcc720116d369d1008533d5999ffa',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

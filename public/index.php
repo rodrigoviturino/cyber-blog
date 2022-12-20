@@ -2,10 +2,10 @@
 
 require_once("../vendor/autoload.php");
 
-// use App\Site\Controller\UsuarioController;
+use App\Site\Controller\UsuarioController;
 
-// $user = new UsuarioController();
-// $user->pagina();
+$user = new UsuarioController();
+$user->pagina();
 
 // die(\App\classes\Input::get('teste', FILTER_SANITIZE_STRING));
 
@@ -15,4 +15,4 @@ require_once("../vendor/autoload.php");
 // $userController = new UsuarioController();
 
 
-(new \App\Core\Router());
+// (new \App\Core\Router());
